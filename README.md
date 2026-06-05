@@ -3,6 +3,9 @@
 This public repo is for hosting software releases for [www.QwertyZen.com](https://www.qwertyzen.com).
 Current target is releasing QwertyZen Community Edition Free for Windows and MacOS (tester)
 
+## Release v0.96.4
+- New feature MIDI Input from controller
+
 ## Release v0.96.1
 - Improved quick guide window with better info
 
